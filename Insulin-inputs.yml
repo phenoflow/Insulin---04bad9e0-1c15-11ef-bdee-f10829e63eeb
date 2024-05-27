@@ -1,0 +1,108 @@
+potentialCases:
+  class: File
+  path: replaceMe.csv
+inputModule1:
+  class: File
+  path: python/read-potential-cases.py
+inputModule2:
+  class: File
+  path: python/insulin-200unit---primary.py
+inputModule3:
+  class: File
+  path: python/insulin-penmix---primary.py
+inputModule4:
+  class: File
+  path: python/insulin-flexpen---primary.py
+inputModule5:
+  class: File
+  path: python/insulin-compan---primary.py
+inputModule6:
+  class: File
+  path: python/rapid-insulin---primary.py
+inputModule7:
+  class: File
+  path: python/insulin-patien---primary.py
+inputModule8:
+  class: File
+  path: python/insulin-insulatard---primary.py
+inputModule9:
+  class: File
+  path: python/insulin-myjector---primary.py
+inputModule10:
+  class: File
+  path: python/insulin-point---primary.py
+inputModule11:
+  class: File
+  path: python/insulin-mixtard---primary.py
+inputModule12:
+  class: File
+  path: python/insulin-100iu---primary.py
+inputModule13:
+  class: File
+  path: python/insulin-device---primary.py
+inputModule14:
+  class: File
+  path: python/insulin-wockhar---primary.py
+inputModule15:
+  class: File
+  path: python/insulin-humaject---primary.py
+inputModule16:
+  class: File
+  path: python/insulin-starter---primary.py
+inputModule17:
+  class: File
+  path: python/insulin-lente---primary.py
+inputModule18:
+  class: File
+  path: python/insulin-aspart---primary.py
+inputModule19:
+  class: File
+  path: python/insulin-lantus---primary.py
+inputModule20:
+  class: File
+  path: python/insulin-insuman---primary.py
+inputModule21:
+  class: File
+  path: python/insulin-monoject---primary.py
+inputModule22:
+  class: File
+  path: python/insulin-exubera---primary.py
+inputModule23:
+  class: File
+  path: python/insulin-insujet---primary.py
+inputModule24:
+  class: File
+  path: python/insulin-soluble---primary.py
+inputModule25:
+  class: File
+  path: python/insulin-adaptor---primary.py
+inputModule26:
+  class: File
+  path: python/insulin-blister---primary.py
+inputModule27:
+  class: File
+  path: python/insulin-innolet---primary.py
+inputModule28:
+  class: File
+  path: python/insulin-glargine---primary.py
+inputModule29:
+  class: File
+  path: python/insulin-necessity---primary.py
+inputModule30:
+  class: File
+  path: python/insulin-injex---primary.py
+inputModule31:
+  class: File
+  path: python/insulin-novomix---primary.py
+inputModule32:
+  class: File
+  path: python/insulin-basal---primary.py
+inputModule33:
+  class: File
+  path: python/insulin-detemir---primary.py
+inputModule34:
+  class: File
+  path: python/insulin-unifine---primary.py
+inputModule35:
+  class: File
+  path: python/output-cases.py
